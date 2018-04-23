@@ -108,7 +108,7 @@ python3.4
 2. [texlive](https://www.tug.org/texlive/windows.html)
 3. [inkscape](https://inkscape.org/ru/download/)
 4. [dia](http://dia-installer.de/)
-5. [graphviz](http://www.graphviz.org/Download_windows.php)
+5. [graphviz](http://www.graphviz.org/download/)
 6. [ghostscript](https://ghostscript.com/download/gsdnld.html)
 7. [babun](http://babun.github.io/) — не обязательно.
 8. [cmake](https://cmake.org/download/) — не обязательно при использовании 
